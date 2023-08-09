@@ -11,9 +11,8 @@ Welcome to the Emotion Recognition System using CNN project! This repository sho
 - Scalable for potential inclusion of additional emotions
 
 Clone this repository to your local machine using:
-bash
-Copy code
-git clone https://github.com/your-username/emotion-recognition-cnn.git
+
+git clone https://github.com/vinaykadam007/Emotion-Recognition-using-CNN.git
 
 ## Usage:
 Once you've cloned the repository and installed the required packages, you can employ the provided Python script to utilize the emotion recognition system. The script utilizes Convolutional Neural Networks to predict emotions based on facial expressions.
